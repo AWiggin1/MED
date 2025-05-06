@@ -1323,8 +1323,7 @@ class MED:
             denoise = denoise,
             select_k_features = select_k_features,
 
-            equation_file = equation_file,
-            temp_equation_file = True,
+            temp_equation_file = equation_file,
 
             progress = progress,
             **kwargs,

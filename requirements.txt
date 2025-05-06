@@ -6,5 +6,5 @@ cma>=3.0.3
 plotly>=4.4.1
 coexist>=0.2.2
 SALib>=1.4
-fvgp>=3.3
+fvgp==3.3.0
 pysr>=0.11
